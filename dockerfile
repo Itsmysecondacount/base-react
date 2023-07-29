@@ -1,5 +1,5 @@
 # Base image
-FROM 18-alpine3.17
+FROM node:18-alpine3.17
 
 # Set working directory
 WORKDIR /app-react
